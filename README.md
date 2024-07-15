@@ -1,16 +1,59 @@
-## Hi there 👋
+<code>System.out.println("Welcome to my github!😆")</code>
+<hr>
 
-<!--
-**matheusf055/matheusf055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Trainee Back-end Developer**
 
-Here are some ideas to get you started:
+🎓 Graduating in Information Systems at Universidade Mauricio de Nassau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☁️ Studying to become AWS Certified
+
+🔠 B2 English Level
+
+---
+
+## About Me
+Back-end developer with experience in creating and maintaining robust and scalable systems. Specialized in solving complex problems with Java, Spring Boot, AWS, and other technologies. I have participated in challenging projects that required innovative solutions. I have skills in software architecture, performance optimization, and system integration, always striving for best development practices.
+
+## My Skills
+Here you'll find some projects focused on the following technologies:
+
+- **Languages & Frameworks:**
+  - Java
+  - Spring Boot (Web, Data JPA, Security)
+  - Spring Cloud (Config Server, Discovery, API Gateway, OpenFeign)
+
+- **Architectural Patterns:**
+  - Microservices
+  - Server-Sent Events (SSE)
+
+- **Databases:**
+  - Relational: PostgreSQL, MySQL
+  - Non-Relational: MongoDB
+
+- **DevOps:**
+  - Docker
+  - AWS
+
+- **Design Patterns:**
+  - Strategy
+  - Factory
+  - Singleton
+  - Builder
+  - Data Transfer Objects
+
+## Certifications
+- **AWS Certified (in progress)**
+
+## Contact
+- **Email:** [m.cesar.nunes2014@gmail.com](mailto:m.cesar.nunes2014@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/matheus-fernandes-765516284/](https://www.linkedin.com/in/matheus-fernandes-765516284/)
+
+## Education
+**Universidade Mauricio de Nassau**
+- B.Sc. in Information Systems
+- Relevant coursework: Software Engineering, Database Systems, Cloud Computing
+
+---
+
+Thank you for visiting my GitHub profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on a project or just chat about technology.
+
