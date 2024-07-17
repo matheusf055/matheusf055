@@ -15,6 +15,8 @@
 Back-end developer with experience in creating and maintaining robust and scalable systems. Specialized in solving complex problems with Java, Spring Boot, AWS, and other technologies. I have participated in challenging projects that required innovative solutions. I have skills in software architecture, performance optimization, and system integration, always striving for best development practices.
 
 ## My Skills
+[![My Skills](https://skillicons.dev/icons?i=java,spring,rabbitmq,aws,docker,mysql,postgresql,mongodb)](https://skillicons.dev)
+
 Here you'll find some projects focused on the following technologies:
 
 - **Languages & Frameworks:**
