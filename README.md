@@ -43,9 +43,6 @@ Here you'll find some projects focused on the following technologies:
   - Builder
   - Data Transfer Objects
 
-## Certifications
-- **AWS Certified (in progress)**
-
 ## Contact
 - **Email:** [m.cesar.nunes2014@gmail.com](mailto:m.cesar.nunes2014@gmail.com)
 - **LinkedIn:** [https://www.linkedin.com/in/matheus-fernandes-765516284/](https://www.linkedin.com/in/matheus-fernandes-765516284/)
@@ -57,5 +54,5 @@ Here you'll find some projects focused on the following technologies:
 
 ---
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on a project or just chat about technology.
+Thank you for visiting my GitHub profile! Feel free to explore my repositories.
 
