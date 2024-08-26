@@ -1,18 +1,18 @@
 <code>System.out.println("Welcome to my github!😆")</code>
 <hr>
 
-👨‍💻 **Trainee Back-end Developer**
+👨‍💻 **Back-end Developer**
 
 🎓 Graduating in Information Systems at Universidade Mauricio de Nassau
 
-☁️ Studying to become AWS Certified
+☁️ AWS Cloud Practitioner Certified
 
 🔠 B2 English Level
 
 ---
 
 ## About Me
-Back-end developer with experience in creating and maintaining robust and scalable systems. Specialized in solving complex problems with Java, Spring Boot, AWS, and other technologies. I have participated in challenging projects that required innovative solutions. I have skills in software architecture, performance optimization, and system integration, always striving for best development practices.
+Back-end developer with experience in creating and maintaining robust and scalable systems. I have worked on challenging projects that required creative and effective solutions. I developed important skills in software architecture, performance optimization and systems integration, always focusing on adopting the best development practices. I am committed to continuous improvement and delivering high-quality solutions, and I am always open to learning and adapting to new technologies and methodologies.
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=java,spring,rabbitmq,aws,docker,mysql,postgresql,mongodb)](https://skillicons.dev)
